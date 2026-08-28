@@ -12,6 +12,17 @@ description: 'Beacon Therapeutics is a clinical-stage ophthalmic gene therapy co
   base in London and a US presence in the Cambridge, Massachusetts area. It is a therapeutics
   developer, not a software or data platform company, and publishes no public API,
   SDK or developer program.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://www.beacontx.com/wp-content/themes/beacon/assets/images/favicon/apple-touch-icon.png
 url: https://raw.githubusercontent.com/api-evangelist/beacon-therapeutics/refs/heads/main/apis.yml
 x-type: company
